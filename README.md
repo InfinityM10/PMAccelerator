@@ -12,7 +12,7 @@ This project analyzes weather data to uncover temperature trends, air quality co
 ## Running the Analysis
 1. Clone the repository: 
     ```bash
-    https://github.com/InfinityM10/PMAccelerator.git
+    gh repo clone InfinityM10/PMAccelerator
     ```
 2. Install dependencies: 
     ```bash
